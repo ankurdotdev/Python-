@@ -16,7 +16,7 @@ print(missingNumber(nums))
 
 # def missingNumber(nums): 
 #     freq = {}
-#     for i in range(0, len(nums)+1):git 
+#     for i in range(0, len(nums)+1):
 #         freq[i] = 0
 
 #     for i in range(0, len(nums)):
