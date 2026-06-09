@@ -18,7 +18,7 @@ class Circle(Shape):
         print(f"Area of Circle > {3.14*(self.radius ** 2)}") 
         
 r = Rectangle(10, 5)
-c= Circle(7)
+c = Circle(7)
 
 r.area()
 c.area()                         

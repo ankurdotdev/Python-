@@ -9,6 +9,6 @@ class Rectangle():
 a1 = Rectangle(4, 5)
 a2 = Rectangle(7,3)
 
-print("Area of rectange is =", a1.area())
-print("Area of rectange is =", a2.area())
+print("Area of rectangle is =", a1.area())
+print("Area of rectangle is =", a2.area())
         
