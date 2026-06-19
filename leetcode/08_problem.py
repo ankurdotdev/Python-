@@ -7,7 +7,7 @@ def maxTotalSubarray(nums,k):
            mx = i
         if i < mn:
             mn = i
-    print ((mx - mn)*k)    
+    print((mx - mn)*k)    
 
 m = maxTotalSubarray([1,5,2],3)    
                 
